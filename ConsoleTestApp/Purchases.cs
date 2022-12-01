@@ -41,6 +41,16 @@ namespace ConsoleTestApp
                             quantity = x?.PurchaseQuantity ?? 0
                         };
 
+            var query2 = (from item in itemlist
+                        join purchase in purchaselist on item.ItemId equals purchase.ItemId into itemPurchaseJoin
+                        from x in itemPurchaseJoin.DefaultIfEmpty()
+                        select new PurchaseUnion
+                        {
+                            ItemId = item.ItemId,
+                            ItemDescription = item.ItemDescription,
+                            PurchaseQuantity = x?.PurchaseQuantity ?? 0
+                        }).ToList();
+
             Console.WriteLine("Item ID \t\t Item Name \t\t Purchase Quantity");
             Console.WriteLine("-------------------------------------------------------");
 

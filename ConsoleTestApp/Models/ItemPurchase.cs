@@ -17,4 +17,11 @@ namespace ConsoleTestApp.Models
         public int ItemId { get; set; }
         public int PurchaseQuantity { get; set; }
     }
+
+    public class PurchaseUnion
+    {
+        public int ItemId { get; set; }
+        public string? ItemDescription { get; set; }
+        public int PurchaseQuantity { get; set; }
+    }
 }
