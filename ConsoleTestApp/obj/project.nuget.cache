@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TIiaBxBPMs4tcMzvkGiYY2EdlEzp/57I5m6S6QBHFfF0p+133he/wJ8jyk3UHWUKGs/ZlMzPMGgZAZdI+dD5bg==",
+  "dgSpecHash": "j4knGWx5iXiqGM32gLaJDCB8BfnuJkuAFJ8fSMK0cpPLZDxdCLEA4aVd47/Nu3wVl3B5H2HehKCtd135ZcPWOQ==",
   "success": true,
-  "projectFilePath": "D:\\Development\\Test\\ConsoleTestApp\\ConsoleTestApp\\ConsoleTestApp.csproj",
+  "projectFilePath": "D:\\Development\\Test\\LinqTestApp\\ConsoleTestApp\\ConsoleTestApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

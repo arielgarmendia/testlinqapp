@@ -1,9 +1,12 @@
-﻿using ConsoleTestApp.Linq;
+﻿using ConsoleTestApp;
+using ConsoleTestApp.Linq;
 using ConsoleTestApp.Models;
 using System.Linq;
 using System.Numerics;
 
 var process = new ProcessLinq();
+var puchases = new Purchases();
+
 var building = new BuildingContact(1, "Paseo sin Gracia No. 21");
 
 PopulateLists();
