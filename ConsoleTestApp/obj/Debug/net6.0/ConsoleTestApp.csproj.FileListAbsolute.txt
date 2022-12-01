@@ -1,0 +1,15 @@
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\bin\Debug\net6.0\ConsoleTestApp.exe
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\bin\Debug\net6.0\ConsoleTestApp.deps.json
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\bin\Debug\net6.0\ConsoleTestApp.runtimeconfig.json
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\bin\Debug\net6.0\ConsoleTestApp.dll
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\bin\Debug\net6.0\ConsoleTestApp.pdb
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\obj\Debug\net6.0\ConsoleTestApp.csproj.AssemblyReference.cache
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\obj\Debug\net6.0\ConsoleTestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\obj\Debug\net6.0\ConsoleTestApp.AssemblyInfoInputs.cache
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\obj\Debug\net6.0\ConsoleTestApp.AssemblyInfo.cs
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\obj\Debug\net6.0\ConsoleTestApp.csproj.CoreCompileInputs.cache
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\obj\Debug\net6.0\ConsoleTestApp.dll
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\obj\Debug\net6.0\refint\ConsoleTestApp.dll
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\obj\Debug\net6.0\ConsoleTestApp.pdb
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\obj\Debug\net6.0\ConsoleTestApp.genruntimeconfig.cache
+D:\Development\Test\ConsoleTestApp\ConsoleTestApp\obj\Debug\net6.0\ref\ConsoleTestApp.dll
