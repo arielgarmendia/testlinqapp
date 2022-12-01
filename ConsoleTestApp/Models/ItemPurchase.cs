@@ -8,7 +8,7 @@ namespace ConsoleTestApp.Models
 {    public class Item_mast
     {
         public int ItemId { get; set; }
-        public string ItemDescription { get; set; }
+        public string? ItemDescription { get; set; }
     }
 
     public class Purchase
